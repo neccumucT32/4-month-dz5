@@ -48,7 +48,6 @@ function MainPage() {
                 />
                 <button type="submit">Добавить</button>
             </form>
-
             {content}
         </div>
     );
